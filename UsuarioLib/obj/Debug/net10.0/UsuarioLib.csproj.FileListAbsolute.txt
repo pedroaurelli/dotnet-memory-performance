@@ -1,0 +1,15 @@
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/bin/Debug/net10.0/UsuarioLib
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/bin/Debug/net10.0/UsuarioLib.deps.json
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/bin/Debug/net10.0/UsuarioLib.runtimeconfig.json
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/bin/Debug/net10.0/UsuarioLib.dll
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/bin/Debug/net10.0/UsuarioLib.pdb
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/obj/Debug/net10.0/UsuarioLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/obj/Debug/net10.0/UsuarioLib.AssemblyInfoInputs.cache
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/obj/Debug/net10.0/UsuarioLib.AssemblyInfo.cs
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/obj/Debug/net10.0/UsuarioLib.csproj.CoreCompileInputs.cache
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/obj/Debug/net10.0/UsuarioLib.sourcelink.json
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/obj/Debug/net10.0/UsuarioLib.dll
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/obj/Debug/net10.0/refint/UsuarioLib.dll
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/obj/Debug/net10.0/UsuarioLib.pdb
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/obj/Debug/net10.0/UsuarioLib.genruntimeconfig.cache
+/home/pedro-aureliano/alura/alura-memoria/UsuarioLib/obj/Debug/net10.0/ref/UsuarioLib.dll
