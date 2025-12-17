@@ -1,4 +1,5 @@
-﻿using UsuarioLib;
+﻿using System.Collections.Generic;
+using UsuarioLib;
 
 Usuario usuario = 
     new Usuario(
